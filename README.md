@@ -13,7 +13,7 @@ I'm a passionate **AI/ML Engineer & Data Analyst** building intelligent systems 
 <div align="center">
   <img src="https://img.shields.io/badge/Focus-AI%2FML%20%26%20Data-4C8DFF?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Status-Always%20Learning-FFB454?style=for-the-badge&logo=lightning&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-Earth-090B0F?style=for-the-badge&logo=globe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Jaipur%2C%20India-090B0F?style=for-the-badge&logo=globe&logoColor=white" />
 </div>
 
 ---
@@ -188,14 +188,11 @@ I'm a passionate **AI/ML Engineer & Data Analyst** building intelligent systems 
   <a href="https://github.com/JasmanjotSarna">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:jasmanjotsinghsarna@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/jasmanjot-sarna">
+  <a href="https://www.linkedin.com/in/jasmanjot-singh-sarna-0a2539286/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/jasmanjot_dev">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </div>
 
@@ -210,6 +207,7 @@ def about_me():
         "hobby": "Reading research papers & exploring new technologies",
         "belief": "Code is art, data tells stories",
         "goal": "Create AI/ML systems that scale globally",
+        "location": "Jaipur, India",
         "quote": "Always learning, always building 🚀"
     }
 ```
