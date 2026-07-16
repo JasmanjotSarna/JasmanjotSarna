@@ -1,4 +1,4 @@
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=4C8DFF&center=true&width=600&lines=Hi+there+👋+I'm+Jasmanjot+Singh+Sarna;AI%2FML+Engineer+%7C+Data+Analyst" alt="Typing SVG" /></a>
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=4C8DFF&center=true&width=600&lines= Hi+there+👋+I'm+Jasmanjot+Singh+Sarna;AI%2FML+Engineer+%7C+Data+Analyst" alt="Typing SVG" /></a>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
