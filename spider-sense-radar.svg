@@ -1,0 +1,56 @@
+<svg width="600" height="600" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="radarGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#e6002e" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#e6002e" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="sweepGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#e6002e" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#e6002e" stop-opacity="0.55"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="600" height="600" fill="#040508"/>
+  <circle cx="300" cy="300" r="260" fill="url(#radarGlow)"/>
+
+  <!-- radar rings -->
+  <g stroke="#2a2f3d" stroke-width="1" fill="none">
+    <circle cx="300" cy="300" r="60"/>
+    <circle cx="300" cy="300" r="120"/>
+    <circle cx="300" cy="300" r="180"/>
+    <circle cx="300" cy="300" r="240"/>
+  </g>
+  <g stroke="#2a2f3d" stroke-width="1">
+    <line x1="300" y1="40" x2="300" y2="560"/>
+    <line x1="40" y1="300" x2="560" y2="300"/>
+  </g>
+
+  <!-- sweep -->
+  <g>
+    <path d="M300 300 L300 40 A260 260 0 0 1 449 128 Z" fill="url(#sweepGrad)">
+      <animateTransform attributeName="transform" type="rotate" from="0 300 300" to="360 300 300" dur="4s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <!-- detection blips -->
+  <g font-family="'Fira Code','Consolas',monospace" font-size="13" fill="#c9d1e0">
+    <circle cx="380" cy="180" r="5" fill="#00c2ff"><animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/></circle>
+    <text x="392" y="184">Bug Detection</text>
+
+    <circle cx="180" cy="220" r="5" fill="#00c2ff"><animate attributeName="opacity" values="1;0.3;1" dur="2.3s" repeatCount="indefinite"/></circle>
+    <text x="60" y="212">Pattern</text>
+    <text x="60" y="228">Recognition</text>
+
+    <circle cx="420" cy="380" r="5" fill="#00c2ff"><animate attributeName="opacity" values="1;0.3;1" dur="1.7s" repeatCount="indefinite"/></circle>
+    <text x="432" y="384">AI Discovery</text>
+
+    <circle cx="160" cy="400" r="5" fill="#00c2ff"><animate attributeName="opacity" values="1;0.3;1" dur="2.6s" repeatCount="indefinite"/></circle>
+    <text x="50" y="404">Optimization</text>
+
+    <circle cx="300" cy="120" r="5" fill="#00c2ff"><animate attributeName="opacity" values="1;0.3;1" dur="1.9s" repeatCount="indefinite"/></circle>
+    <text x="330" y="115">Innovation</text>
+  </g>
+
+  <circle cx="300" cy="300" r="6" fill="#e6002e"/>
+  <text x="240" y="580" font-family="'Fira Code','Consolas',monospace" font-size="14" fill="#7a3cff">SPIDER SENSE — SCANNING</text>
+</svg>

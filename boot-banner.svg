@@ -1,0 +1,58 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#040508"/>
+      <stop offset="100%" stop-color="#0a0c14"/>
+    </linearGradient>
+    <linearGradient id="hud" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#e6002e"/>
+      <stop offset="50%" stop-color="#7a3cff"/>
+      <stop offset="100%" stop-color="#00c2ff"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="2.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+
+  <rect width="1200" height="360" fill="url(#bg)"/>
+
+  <!-- corner brackets, HUD frame -->
+  <g stroke="url(#hud)" stroke-width="2" fill="none" opacity="0.8">
+    <path d="M20 20 L20 50 M20 20 L50 20"/>
+    <path d="M1180 20 L1180 50 M1180 20 L1150 20"/>
+    <path d="M20 340 L20 310 M20 340 L50 340"/>
+    <path d="M1180 340 L1180 310 M1180 340 L1150 340"/>
+  </g>
+
+  <!-- faint web-lines from corner, kept sparse -->
+  <g stroke="#e6002e" stroke-width="1" opacity="0.15">
+    <line x1="1200" y1="0" x2="820" y2="360"/>
+    <line x1="1200" y1="0" x2="980" y2="360"/>
+    <line x1="1200" y1="0" x2="1120" y2="360"/>
+    <path d="M1200 80 Q950 80 780 360" fill="none"/>
+  </g>
+
+  <!-- scanline -->
+  <rect x="0" y="0" width="1200" height="2" fill="#00c2ff" opacity="0.5">
+    <animate attributeName="y" values="0;358;0" dur="4.5s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="60" y="70" font-family="'Fira Code','Consolas',monospace" font-size="15" fill="#00c2ff" opacity="0.85">
+    &gt; connecting to identity server...
+  </text>
+  <text x="60" y="95" font-family="'Fira Code','Consolas',monospace" font-size="15" fill="#00c2ff" opacity="0.85">
+    &gt; neural systems: <tspan fill="#3ddc84">ONLINE</tspan>  spider sense: <tspan fill="#3ddc84">ACTIVE</tspan>
+  </text>
+
+  <text x="58" y="185" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="58" font-weight="800" fill="url(#hud)" filter="url(#glow)">
+    SYSTEM: DEVELOPER.EXE
+  </text>
+  <text x="60" y="230" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="20" fill="#9aa1b5" letter-spacing="2">
+    AI ENGINEER OS — BUILD · LEARN · SHIP
+  </text>
+
+  <rect x="60" y="255" width="4" height="26" fill="#00c2ff">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+  <text x="76" y="277" font-family="'Fira Code','Consolas',monospace" font-size="16" fill="#e6e9f2">
+    status: awaiting input_
+  </text>
+</svg>
