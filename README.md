@@ -134,9 +134,6 @@ Beginning → Programming → Data → Machine Learning → AI
 ## System Analytics
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasmanjotSarna&layout=compact&theme=dark&hide_border=true&bg_color=05060A&title_color=00C2FF&text_color=C9D1D9" />
-</div>
-
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=JasmanjotSarna&theme=dark&hide_border=true&background=05060A&ring=00C2FF&fire=E6002E&currStreakLabel=00C2FF" />
 </div>
