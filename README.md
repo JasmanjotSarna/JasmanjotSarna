@@ -1,237 +1,269 @@
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=4C8DFF&center=true&width=600&lines= Hi+there+👋+I'm+Jasmanjot+Singh+Sarna;AI%2FML+Engineer+%7C+Data+Analyst" alt="Typing SVG" /></a>
-
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+
+<img src="./assets/banner.svg" alt="Swinging Through Data, AI & Code" width="100%" />
+
+<br/>
+
+<a href="https://github.com/YOUR-USERNAME">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=0090FF&center=true&vCenter=true&width=650&lines=Every+dataset+hides+a+story.;Every+algorithm+solves+a+mystery.;Every+project+teaches+something+new.;Currently%3A+Building+intelligent+systems." alt="Typing SVG" />
+</a>
+
 </div>
 
----
+<br/>
 
-## 🎯 About Me
+> A dataset dropped onto the city last night. Somewhere between the noise and the nulls, a pattern is waiting to be caught. That's the job — not writing code, but catching signal before it slips through the cracks.
 
-I'm a passionate **AI/ML Engineer & Data Analyst** building intelligent systems that solve real-world problems. I specialize in creating elegant solutions at the intersection of **machine learning, statistical modeling, and data-driven product development**.
+<br/>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Focus-AI%2FML%20%26%20Data-4C8DFF?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Always%20Learning-FFB454?style=for-the-badge&logo=lightning&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-Jaipur%2C%20India-090B0F?style=for-the-badge&logo=globe&logoColor=white" />
-</div>
+## 🕷 Spider Sense
 
----
+Instincts sharpened over thousands of commits, bugs, and late-night `git blame` sessions.
 
-## 🚀 What I'm Currently Working On
+| Signal | What it means |
+|---|---|
+| 🕸 **Tingling on inefficient code** | O(n²) doesn't hide from me for long |
+| 🕸 **Catching hidden patterns in data** | If it's in the dataset, I'll find it |
+| 🕸 **Pulled toward emerging AI** | New paper drops → I've read it by morning |
+| 🕸 **Building before being asked** | Side projects are how I learn fastest |
+
+<br/>
+
+## 📡 Mission Panel
 
 ```
-┌─────────────────────────────────────────────────────┐
-│  🏗️  Building my portfolio platform (Next.js 14)    │
-│  🤖  Developing ML models for real-world apps      │
-│  📊  Creating data visualization pipelines         │
-│  🔧  Contributing to open-source ML projects       │
-└─────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────┐
+│  SYSTEM STATUS ................... ONLINE         │
+│                                                    │
+│  > learning........  Advanced ML Systems & LLMs   │
+│  > building.........  AI-powered developer tools  │
+│  > exploring........  Multi-agent architectures   │
+│  > reading..........  Papers on applied GenAI     │
+│  > experimenting....  Prompt-driven automation     │
+│                                                    │
+│  STATUS: open to collaborate · open to opportunity │
+└──────────────────────────────────────────────────┘
 ```
 
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWoLVc3/giphy.gif" width="400" height="300"/>
-</div>
+<br/>
 
----
+## 🕸 Tech Arsenal
 
-## 🌱 Learning & Growth
+<table>
+<tr>
+<td valign="top" width="20%">
 
-<table align="center">
-  <tr>
-    <td><img src="https://img.shields.io/badge/Learning-Advanced%20ML%20Architectures-FF6B9D?style=flat-square&logo=python"/></td>
-    <td><img src="https://img.shields.io/badge/Exploring-MLOps%20%26%20Scaling-00D9FF?style=flat-square&logo=docker"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Diving%20Into-Deep%20Learning-FFBE0B?style=flat-square&logo=architecture"/></td>
-    <td><img src="https://img.shields.io/badge/Mastering-Statistical%20Modeling-3178C6?style=flat-square&logo=python"/></td>
-  </tr>
+**Languages**
+
+Python · JavaScript
+TypeScript · SQL
+C++
+
+</td>
+<td valign="top" width="20%">
+
+**AI**
+
+PyTorch · TensorFlow
+Scikit-learn
+Hugging Face
+
+</td>
+<td valign="top" width="20%">
+
+**Data**
+
+Pandas · NumPy
+Power BI · Tableau
+
+</td>
+<td valign="top" width="20%">
+
+**Cloud**
+
+AWS · Azure
+Docker
+
+</td>
+<td valign="top" width="20%">
+
+**Tools**
+
+Git · Linux
+VS Code · Postman
+
+</td>
+</tr>
 </table>
 
----
+<br/>
 
-## 💻 Tech Stack & Skills
+## 🧪 AI Laboratory
 
-### Languages & ML Tools
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-</div>
-
-### Data & ML
-<div align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="ML"/>
-  <img src="https://img.shields.io/badge/Data%20Analysis-013243?style=for-the-badge&logo=pandas&logoColor=white" alt="Data"/>
-  <img src="https://img.shields.io/badge/Statistical%20Modeling-4C72B0?style=for-the-badge&logo=numpy&logoColor=white" alt="Stats"/>
-  <img src="https://img.shields.io/badge/Data%20Visualization-FF00FF?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Visualization"/>
-</div>
-
-### Tools & Platforms
-<div align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-</div>
-
----
-
-## 📊 GitHub Analytics & Stats
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=JasmanjotSarna&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=JasmanjotSarna&show_icons=true&theme=default&hide_border=true&count_private=true" />
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JasmanjotSarna&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  </picture>
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JasmanjotSarna&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JasmanjotSarna&layout=compact&theme=default&hide_border=true" />
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasmanjotSarna&layout=compact&theme=tokyonight&hide_border=true" />
-  </picture>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JasmanjotSarna&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
-</div>
-
----
-
-## 🎯 Featured Projects
-
-### ⭐ Portfolio Platform
-<div align="center">
-  <a href="https://github.com/JasmanjotSarna/jasmanjot-portfolio">
-    <img src="https://img.shields.io/badge/GitHub-Portfolio%20Repo-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://jasmanjot-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Now-4C8DFF?style=for-the-badge&logo=vercel" />
-  </a>
-</div>
-
-> A modern, custom-built portfolio built from scratch with **Next.js 14**, **TypeScript**, **Tailwind CSS**, and **Framer Motion**. Features animated node graphs, smooth scroll reveals, and a sleek engineering-inspired design.
-
-**Key Features:**
-- 🎨 Custom design tokens & geometric typography
-- 🔗 Animated canvas node-graph background
-- ✨ Scroll-triggered animations
-- 📱 Fully responsive design
-- ⚡ Production-optimized performance
-
----
-
-## 🌟 What Sets Me Apart
-
-<table align="center">
-  <tr>
-    <td align="center" width="150">
-      <img src="https://media.giphy.com/media/Wj7lNjMNDvYGC/giphy.gif" width="100"/><br/>
-      <strong>Data-Driven</strong><br/>
-      <small>Insights & Analytics</small>
-    </td>
-    <td align="center" width="150">
-      <img src="https://media.giphy.com/media/3o7TKU2vQy1V6XO9Bi/giphy.gif" width="100"/><br/>
-      <strong>ML Focused</strong><br/>
-      <small>Model Design & Optimization</small>
-    </td>
-    <td align="center" width="150">
-      <img src="https://media.giphy.com/media/xTiTnES8JwFl9wt7dG/giphy.gif" width="100"/><br/>
-      <strong>Problem Solver</strong><br/>
-      <small>Creative Solutions</small>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="150">
-      <img src="https://media.giphy.com/media/L1R1tvI9svkIWoLVc3/giphy.gif" width="100"/><br/>
-      <strong>Open Source</strong><br/>
-      <small>Community Driven</small>
-    </td>
-    <td align="center" width="150">
-      <img src="https://media.giphy.com/media/3o6Zt6KHxJTbXCnSvu/giphy.gif" width="100"/><br/>
-      <strong>Lifelong Learner</strong><br/>
-      <small>Always Growing</small>
-    </td>
-    <td align="center" width="150">
-      <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="100"/><br/>
-      <strong>Detail Oriented</strong><br/>
-      <small>Quality & Precision</small>
-    </td>
-  </tr>
+<table>
+<tr><td>🤖 Machine Learning</td><td>🧠 Deep Learning</td><td>👁 Computer Vision</td></tr>
+<tr><td>💬 LLMs</td><td>📝 NLP</td><td>📊 Data Analytics</td></tr>
+<tr><td>🔮 Predictive Modeling</td><td>🎨 Generative AI</td><td>⚙️ Prompt Engineering</td></tr>
 </table>
 
----
+<br/>
 
-## 👯 Let's Collaborate!
+## 🔍 Data Detective
 
-<div align="center">
-  <p><strong>I'm interested in:</strong></p>
-  <img src="https://img.shields.io/badge/Machine%20Learning%20Projects-FF6B6B?style=flat-square" />
-  <img src="https://img.shields.io/badge/Open%20Source-4ECDC4?style=flat-square" />
-  <img src="https://img.shields.io/badge/Data%20Science-45B7D1?style=flat-square" />
-  <img src="https://img.shields.io/badge/Data%20Visualization-96CEB4?style=flat-square" />
-  <img src="https://img.shields.io/badge/AI%20Research-FFEAA7?style=flat-square" />
-</div>
+```
+CASE FILE: every "messy" dataset
 
----
-
-## 📫 Connect With Me
-
-<div align="center">
-  <a href="https://jasmanjot-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-4C8DFF?style=for-the-badge&logo=globe&logoColor=white" />
-  </a>
-  <a href="https://github.com/JasmanjotSarna">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:jasmanjotsinghsarna@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/jasmanjot-singh-sarna-0a2539286/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
-
----
-
-## 💡 Fun Facts About Me
-
-```python
-def about_me():
-    return {
-        "passion": "Building elegant solutions that make an impact",
-        "hobby": "Reading research papers & exploring new technologies",
-        "belief": "Code is art, data tells stories",
-        "goal": "Create AI/ML systems that scale globally",
-        "location": "Jaipur, India",
-        "quote": "Always learning, always building 🚀"
-    }
+  01. Observe   — profile the data, find the cracks
+  02. Isolate   — separate signal from noise
+  03. Interrogate — test the pattern against reality
+  04. Report    — turn findings into a dashboard, a model, a decision
 ```
 
----
+Case closed. Insight delivered.
+
+<br/>
+
+## 🧭 Learning Timeline
+
+```
+Beginner
+   │
+   ▼
+Projects
+   │
+   ▼
+Internships
+   │
+   ▼
+AI & Machine Learning
+   │
+   ▼
+Building Real Products
+   │
+   ▼
+Future Startup ⚡
+```
+
+<br/>
+
+## 📖 Featured Projects
+
+<details open>
+<summary><b>Issue #001 — CareerForge AI</b></summary>
+<br/>
+
+| | |
+|---|---|
+| **Mission** | Help job seekers turn raw experience into a targeted, compelling application |
+| **Challenge** | Generic resume advice ignores role-specific context |
+| **Impact** | Personalized, AI-guided resume & career feedback |
+| **Tech Used** | Python · LLMs · Prompt Engineering · React |
+| **Live Demo** | [View Demo](#) |
+| **Repository** | [View Repo](#) |
+
+</details>
+
+<details>
+<summary><b>Issue #002 — Trading Dashboard</b></summary>
+<br/>
+
+| | |
+|---|---|
+| **Mission** | Turn raw market data into a decision-ready live view |
+| **Challenge** | Real-time data is noisy and inconsistent |
+| **Impact** | Clear, real-time visualization of market movement |
+| **Tech Used** | Python · Pandas · APIs · Data Viz |
+| **Live Demo** | [View Demo](#) |
+| **Repository** | [View Repo](#) |
+
+</details>
+
+<details>
+<summary><b>Issue #003 — Face Emotion Recognition</b></summary>
+<br/>
+
+| | |
+|---|---|
+| **Mission** | Detect human emotion from facial expressions in real time |
+| **Challenge** | Lighting, angle, and expression variance |
+| **Impact** | Real-time emotion classification pipeline |
+| **Tech Used** | Python · OpenCV · CNNs · TensorFlow |
+| **Live Demo** | [View Demo](#) |
+| **Repository** | [View Repo](#) |
+
+</details>
+
+<details>
+<summary><b>Issue #004 — Air Canvas</b></summary>
+<br/>
+
+| | |
+|---|---|
+| **Mission** | Let users draw in the air using hand-tracking, no stylus needed |
+| **Challenge** | Tracking fingertip motion accurately in real time |
+| **Impact** | Gesture-based, touchless drawing tool |
+| **Tech Used** | Python · OpenCV · MediaPipe |
+| **Live Demo** | [View Demo](#) |
+| **Repository** | [View Repo](#) |
+
+</details>
+
+<br/>
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://media.giphy.com/media/QvyTyKvvsXJF2/giphy.gif" width="300"/>
-  
-  ### Thank you for visiting! 🙌
-  
-  **Feel free to explore my repositories, star them if you like, and reach out for collaborations!**
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=4C8DFF&center=true&width=500&lines=Let's+build+something+amazing+together!)](https://github.com/JasmanjotSarna)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=0090FF&icon_color=E6002E&text_color=C9D1D9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=0090FF&text_color=C9D1D9" />
 </div>
 
----
+<br/>
+
+## 🕸 Spider Web Activity
 
 <div align="center">
-  <p>
-    <img src="https://img.shields.io/badge/Profile%20Views-increasing-%234C8DFF?style=flat-square" />
-    <img src="https://img.shields.io/badge/PRs%20Welcome-%E2%9C%A8-4C8DFF?style=flat-square" />
-    <img src="https://img.shields.io/badge/Open%20to%20Opportunities-%F0%9F%9A%80-4C8DFF?style=flat-square" />
-  </p>
-  
-  *Last updated: July 2026*
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=dark&hide_border=true&background=0D1117&ring=0090FF&fire=E6002E&currStreakLabel=0090FF" />
+</div>
+
+<br/>
+
+## 💬 Quote
+
+> *"Curiosity is the first commit. Every version after that is just refusing to stop asking why."*
+
+<br/>
+
+## 📟 Current Status
+
+```
+Currently Learning ........ Advanced AI system design
+Currently Building ........ AI-powered developer tools
+Currently Reading ......... Research on applied GenAI
+Current Goal ............... Ship something people rely on daily
+Open to Collaborate ....... ✅
+Open to Opportunities ..... ✅
+```
+
+<br/>
+
+## ⚡ Fun Facts
+
+- 🕷 Can spend hours optimizing one line of code — the good kind of stubborn.
+- ☕ Coffee fuels debugging sessions that start at "quick fix" and end at 2am.
+- 📊 Finds a messy dataset more exciting than a clean spreadsheet.
+- 🤖 Always mid-experiment with something in AI, usually three things at once.
+
+<br/>
+
+<div align="center">
+
+## 📡 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0090FF?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-050507?style=for-the-badge&logo=firefox&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-E6002E?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![X](https://img.shields.io/badge/X-050507?style=for-the-badge&logo=x&logoColor=white)](#)
+
+<sub>Built with curiosity, caffeine, and a little bit of web-slinging.</sub>
+
 </div>
