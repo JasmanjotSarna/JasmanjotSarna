@@ -1,269 +1,348 @@
 <div align="center">
-
-<img src="./assets/banner.svg" alt="Swinging Through Data, AI & Code" width="100%" />
-
-<br/>
-
-<a href="https://github.com/YOUR-USERNAME">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=0090FF&center=true&vCenter=true&width=650&lines=Every+dataset+hides+a+story.;Every+algorithm+solves+a+mystery.;Every+project+teaches+something+new.;Currently%3A+Building+intelligent+systems." alt="Typing SVG" />
-</a>
-
+<img src="./assets/boot-banner.svg" width="100%" alt="System: Developer.exe" />
 </div>
 
-<br/>
+<pre align="center">
+BOOT SEQUENCE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[■■■■■■■■■■■■■■■■■■■■] 100%
+Connecting..................... OK
+Neural Network.................. OK
+Spider Sense..................... ACTIVE
+Identity......................... VERIFIED
+Mission.......................... LOADED
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SYSTEM READY.
+</pre>
 
-> A dataset dropped onto the city last night. Somewhere between the noise and the nulls, a pattern is waiting to be caught. That's the job — not writing code, but catching signal before it slips through the cracks.
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+back%2C+operator.;Loading+personal+AI+operating+system...;Every+dataset+hides+a+story.;Every+algorithm+solves+a+mystery." alt="Typing SVG" />
+</div>
 
-<br/>
+<img src="./assets/divider.svg" width="100%" />
 
-## 🕷 Spider Sense
-
-Instincts sharpened over thousands of commits, bugs, and late-night `git blame` sessions.
-
-| Signal | What it means |
-|---|---|
-| 🕸 **Tingling on inefficient code** | O(n²) doesn't hide from me for long |
-| 🕸 **Catching hidden patterns in data** | If it's in the dataset, I'll find it |
-| 🕸 **Pulled toward emerging AI** | New paper drops → I've read it by morning |
-| 🕸 **Building before being asked** | Side projects are how I learn fastest |
-
-<br/>
-
-## 📡 Mission Panel
+## 🪪 Identity Verification
 
 ```
-┌──────────────────────────────────────────────────┐
-│  SYSTEM STATUS ................... ONLINE         │
-│                                                    │
-│  > learning........  Advanced ML Systems & LLMs   │
-│  > building.........  AI-powered developer tools  │
-│  > exploring........  Multi-agent architectures   │
-│  > reading..........  Papers on applied GenAI     │
-│  > experimenting....  Prompt-driven automation     │
-│                                                    │
-│  STATUS: open to collaborate · open to opportunity │
-└──────────────────────────────────────────────────┘
+USER   > Who is this?
+SYSTEM > Analyzing...
+
+  Identity Confirmed.
+  ─────────────────────────
+  Role         AI Engineer / Builder
+  Class        Data Enthusiast, Startup Founder (in progress)
+  Curiosity    ████████████████████ 99%
+  Coffee Dep.  ████████████████████ Critical
+  Learning     ░░░░░░░░░░░░░░░░░░░░ Never Complete
+  ─────────────────────────
 ```
 
-<br/>
+<img src="./assets/divider.svg" width="100%" />
+
+## 📊 Mission Dashboard
+
+<table>
+<tr><td>
+
+```
+CURRENT MISSION
+Building an AI-powered
+developer platform
+
+CURRENT EXPERIMENT
+Multi-agent LLM workflows
+
+CURRENT BUILD
+CareerForge AI v2
+```
+
+</td><td>
+
+```
+LEVEL         14
+XP            ████████░░  82%
+DIFFICULTY    ★★★★☆
+ENERGY        ████████░░  80%
+COFFEE LEVEL  ██████████ 100%
+STATUS        ACTIVE
+```
+
+</td></tr>
+</table>
+
+<img src="./assets/divider.svg" width="100%" />
+
+## 🕷 Spider Sense — Live Diagnostics
+
+<div align="center">
+<img src="./assets/spider-sense-radar.svg" width="380" alt="Spider Sense Radar" />
+</div>
+
+```
+THREAT DETECTION ........ scanning for anti-patterns
+BUG DETECTION ............ tingling near untested code paths
+PATTERN RECOGNITION ...... locked onto dataset anomalies
+AI DISCOVERY .............. new paper flagged, reading now
+OPTIMIZATION .............. one line, three hours, no regrets
+```
+
+<img src="./assets/divider.svg" width="100%" />
+
+## 🎯 Current Quest
+
+```
+┌─────────────────────────────────────────────┐
+│  QUEST: Land an AI Engineer Role             │
+│  Difficulty: ★★★★★                          │
+│  Rewards: Knowledge · Experience · Impact     │
+├─────────────────────────────────────────────┤
+│  NEXT QUEST                                  │
+│  Scale CareerForge AI to real users          │
+├─────────────────────────────────────────────┤
+│  FUTURE QUEST                                │
+│  Build an AI startup used by millions        │
+└─────────────────────────────────────────────┘
+```
+
+<img src="./assets/divider.svg" width="100%" />
 
 ## 🕸 Tech Arsenal
 
 <table>
+<tr><th>Primary Weapons</th><th>Secondary Weapons</th><th>AI Modules</th></tr>
 <tr>
-<td valign="top" width="20%">
-
-**Languages**
-
-Python · JavaScript
-TypeScript · SQL
-C++
-
-</td>
-<td valign="top" width="20%">
-
-**AI**
-
-PyTorch · TensorFlow
-Scikit-learn
-Hugging Face
-
-</td>
-<td valign="top" width="20%">
-
-**Data**
-
-Pandas · NumPy
-Power BI · Tableau
-
-</td>
-<td valign="top" width="20%">
-
-**Cloud**
-
-AWS · Azure
-Docker
-
-</td>
-<td valign="top" width="20%">
-
-**Tools**
-
-Git · Linux
-VS Code · Postman
-
-</td>
+<td>Python<br/>SQL</td>
+<td>TypeScript<br/>JavaScript<br/>C++</td>
+<td>PyTorch · TensorFlow<br/>Computer Vision<br/>Hugging Face</td>
+</tr>
+<tr><th>Data Engine</th><th>Deployment Rig</th><th>Field Tools</th></tr>
+<tr>
+<td>Pandas · NumPy<br/>Power BI · Tableau</td>
+<td>Docker · AWS<br/>Vercel · Azure</td>
+<td>Git · Linux<br/>VS Code · Postman</td>
 </tr>
 </table>
 
-<br/>
+<img src="./assets/divider.svg" width="100%" />
 
 ## 🧪 AI Laboratory
 
-<table>
-<tr><td>🤖 Machine Learning</td><td>🧠 Deep Learning</td><td>👁 Computer Vision</td></tr>
-<tr><td>💬 LLMs</td><td>📝 NLP</td><td>📊 Data Analytics</td></tr>
-<tr><td>🔮 Predictive Modeling</td><td>🎨 Generative AI</td><td>⚙️ Prompt Engineering</td></tr>
-</table>
+```
+LAB STATUS ................. OPERATIONAL
+EXPERIMENTS RUNNING ......... 3
+MODELS TRAINING ............. 1
+INFERENCE SPEED ............. optimizing
+MODEL ACCURACY (last run) ... 94.2%
+LATEST RESEARCH FLAGGED ..... applied GenAI, agentic workflows
+CURRENT EXPERIMENT ........... prompt-driven automation pipeline
+STATUS ........................ IN PROGRESS
+```
 
-<br/>
+<img src="./assets/divider.svg" width="100%" />
 
 ## 🔍 Data Detective
 
-```
-CASE FILE: every "messy" dataset
-
-  01. Observe   — profile the data, find the cracks
-  02. Isolate   — separate signal from noise
-  03. Interrogate — test the pattern against reality
-  04. Report    — turn findings into a dashboard, a model, a decision
-```
-
-Case closed. Insight delivered.
-
-<br/>
-
-## 🧭 Learning Timeline
+<details open>
+<summary><b>CASE #1048 — The Missing Pattern</b></summary>
 
 ```
-Beginner
+STATUS ............. SOLVED
+EVIDENCE ........... raw, inconsistent transactional data
+MODELS USED ......... clustering + anomaly detection
+VISUALIZATION ....... interactive dashboard
+DECISION ............ flagged 3 previously invisible fraud patterns
+```
+</details>
+
+<img src="./assets/divider.svg" width="100%" />
+
+## 🧭 Knowledge Timeline
+
+```
+Beginning
    │
    ▼
-Projects
+Programming
    │
    ▼
-Internships
+Data
    │
    ▼
-AI & Machine Learning
+Machine Learning
    │
    ▼
-Building Real Products
+Artificial Intelligence
    │
    ▼
-Future Startup ⚡
+Building Products
+   │
+   ▼
+Entrepreneurship
+   │
+   ▼
+Future ⚡
 ```
 
-<br/>
+<img src="./assets/divider.svg" width="100%" />
 
-## 📖 Featured Projects
+## 📖 Project Missions
 
 <details open>
-<summary><b>Issue #001 — CareerForge AI</b></summary>
+<summary><b>MISSION 001 — CareerForge AI</b></summary>
 <br/>
 
 | | |
 |---|---|
-| **Mission** | Help job seekers turn raw experience into a targeted, compelling application |
+| **Objective** | Turn raw experience into a targeted, compelling job application |
 | **Challenge** | Generic resume advice ignores role-specific context |
-| **Impact** | Personalized, AI-guided resume & career feedback |
-| **Tech Used** | Python · LLMs · Prompt Engineering · React |
-| **Live Demo** | [View Demo](#) |
-| **Repository** | [View Repo](#) |
+| **Solution** | LLM-driven, role-aware resume & career guidance |
+| **Technology** | Python · LLMs · Prompt Engineering · React |
+| **Status** | 🟢 Active |
+| **Completion** | ████████░░ 80% |
+| **Next Upgrade** | Multi-language support |
+| **Difficulty** | ★★★★☆ |
 
 </details>
 
 <details>
-<summary><b>Issue #002 — Trading Dashboard</b></summary>
+<summary><b>MISSION 002 — Trading Dashboard</b></summary>
 <br/>
 
 | | |
 |---|---|
-| **Mission** | Turn raw market data into a decision-ready live view |
+| **Objective** | Turn raw market data into a decision-ready live view |
 | **Challenge** | Real-time data is noisy and inconsistent |
-| **Impact** | Clear, real-time visualization of market movement |
-| **Tech Used** | Python · Pandas · APIs · Data Viz |
-| **Live Demo** | [View Demo](#) |
-| **Repository** | [View Repo](#) |
+| **Solution** | Streaming pipeline + clean real-time visualization |
+| **Technology** | Python · Pandas · APIs · Data Viz |
+| **Status** | 🟡 Maintained |
+| **Completion** | ██████████ 100% |
+| **Next Upgrade** | Predictive alerts |
+| **Difficulty** | ★★★☆☆ |
 
 </details>
 
 <details>
-<summary><b>Issue #003 — Face Emotion Recognition</b></summary>
+<summary><b>MISSION 003 — Face Emotion Recognition</b></summary>
 <br/>
 
 | | |
 |---|---|
-| **Mission** | Detect human emotion from facial expressions in real time |
+| **Objective** | Detect human emotion from facial expressions in real time |
 | **Challenge** | Lighting, angle, and expression variance |
-| **Impact** | Real-time emotion classification pipeline |
-| **Tech Used** | Python · OpenCV · CNNs · TensorFlow |
-| **Live Demo** | [View Demo](#) |
-| **Repository** | [View Repo](#) |
+| **Solution** | CNN-based real-time classification pipeline |
+| **Technology** | Python · OpenCV · CNNs · TensorFlow |
+| **Status** | ✅ Complete |
+| **Completion** | ██████████ 100% |
+| **Next Upgrade** | Edge-device deployment |
+| **Difficulty** | ★★★★☆ |
 
 </details>
 
 <details>
-<summary><b>Issue #004 — Air Canvas</b></summary>
+<summary><b>MISSION 004 — Air Canvas</b></summary>
 <br/>
 
 | | |
 |---|---|
-| **Mission** | Let users draw in the air using hand-tracking, no stylus needed |
+| **Objective** | Draw in the air using hand-tracking, no stylus needed |
 | **Challenge** | Tracking fingertip motion accurately in real time |
-| **Impact** | Gesture-based, touchless drawing tool |
-| **Tech Used** | Python · OpenCV · MediaPipe |
-| **Live Demo** | [View Demo](#) |
-| **Repository** | [View Repo](#) |
+| **Solution** | Gesture-based, touchless drawing tool |
+| **Technology** | Python · OpenCV · MediaPipe |
+| **Status** | ✅ Complete |
+| **Completion** | ██████████ 100% |
+| **Next Upgrade** | Multi-hand gesture support |
+| **Difficulty** | ★★★☆☆ |
 
 </details>
 
-<br/>
+<img src="./assets/divider.svg" width="100%" />
 
-## 📊 GitHub Analytics
+## 📡 System Analytics
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=0090FF&icon_color=E6002E&text_color=C9D1D9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=0090FF&text_color=C9D1D9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=05060A&title_color=00C2FF&icon_color=E6002E&text_color=C9D1D9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=05060A&title_color=00C2FF&text_color=C9D1D9" />
 </div>
 
-<br/>
-
-## 🕸 Spider Web Activity
-
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=dark&hide_border=true&background=0D1117&ring=0090FF&fire=E6002E&currStreakLabel=0090FF" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=dark&hide_border=true&background=05060A&ring=00C2FF&fire=E6002E&currStreakLabel=00C2FF" />
 </div>
 
-<br/>
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=react-dark&bg_color=05060A&color=00C2FF&line=E6002E&point=7A3CFF&hide_border=true" width="90%" />
+</div>
 
-## 💬 Quote
+<img src="./assets/divider.svg" width="100%" />
 
-> *"Curiosity is the first commit. Every version after that is just refusing to stop asking why."*
-
-<br/>
-
-## 📟 Current Status
+## 🏆 Achievements
 
 ```
-Currently Learning ........ Advanced AI system design
-Currently Building ........ AI-powered developer tools
-Currently Reading ......... Research on applied GenAI
-Current Goal ............... Ship something people rely on daily
-Open to Collaborate ....... ✅
-Open to Opportunities ..... ✅
+[✔] First AI Model Shipped
+[✔] Open Source Contributor
+[✔] Hackathon Survivor
+[✔] 1000+ Commits
+[✔] CareerForge AI Launched
+[ ] AI Startup — LOADING...
 ```
 
+<img src="./assets/divider.svg" width="100%" />
+
+<details>
+<summary>🔐 <b>Secret Terminal</b> — click if you're curious</summary>
 <br/>
 
-## ⚡ Fun Facts
+```
+> whoami
+an engineer who reads changelogs for fun
 
-- 🕷 Can spend hours optimizing one line of code — the good kind of stubborn.
-- ☕ Coffee fuels debugging sessions that start at "quick fix" and end at 2am.
-- 📊 Finds a messy dataset more exciting than a clean spreadsheet.
-- 🤖 Always mid-experiment with something in AI, usually three things at once.
+> sudo unlock --easter-egg
+Access granted.
+01001000 01101001 00100000 01110100 01101000 01100101 01110010 01100101
+(translation: hi there — you found the hidden layer. bonus points if
+ you actually decoded that instead of trusting this comment.)
 
-<br/>
+> cat next_steps.txt
+if you're a recruiter: scroll to the contact terminal below.
+if you're a fellow builder: my repos are open, dig around.
+```
+</details>
+
+<img src="./assets/divider.svg" width="100%" />
+
+## 📟 Communication Terminal
 
 <div align="center">
 
-## 📡 Contact
+```
+TRANSMISSION CHANNELS
+─────────────────────────
+```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0090FF?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-050507?style=for-the-badge&logo=firefox&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-E6002E?style=for-the-badge&logo=gmail&logoColor=white)](#)
-[![X](https://img.shields.io/badge/X-050507?style=for-the-badge&logo=x&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-00C2FF?style=for-the-badge&logo=linkedin&logoColor=black)](#)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-05060A?style=for-the-badge&logo=firefox&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/EMAIL-E6002E?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![X](https://img.shields.io/badge/X-05060A?style=for-the-badge&logo=x&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GITHUB-05060A?style=for-the-badge&logo=github&logoColor=white)](#)
 
-<sub>Built with curiosity, caffeine, and a little bit of web-slinging.</sub>
+</div>
+
+<img src="./assets/divider.svg" width="100%" />
+
+<div align="center">
+
+```
+MISSION STATUS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━
+LEARNING ........... ACTIVE
+BUILDING ............ ACTIVE
+INNOVATION .......... ACTIVE
+SPIDER SENSE ........ ENABLED
+AI SYSTEMS .......... ONLINE
+FUTURE STARTUP ...... LOADING...
+━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TRANSMISSION COMPLETE.
+```
+
+<sub>Thanks for scrolling this far. That's already more curiosity than most — you'll fit right in around here.</sub>
 
 </div>
