@@ -19,7 +19,7 @@ SYSTEM READY.
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+back%2C+operator.;Loading+personal+AI+operating+system...;Every+dataset+hides+a+story.;Every+algorithm+solves+a+mystery." alt="Typing SVG" />
 </div>
 
-<img src="./assets/divider.svg" width="100%" />
+<img src="divider.svg" width="100%" />
 
 ## 🪪 Identity Verification
 
@@ -37,7 +37,7 @@ SYSTEM > Analyzing...
   ─────────────────────────
 ```
 
-<img src="./assets/divider.svg" width="100%" />
+<img src="divider.svg" width="100%" />
 
 ## 📊 Mission Dashboard
 
@@ -70,12 +70,12 @@ STATUS        ACTIVE
 </td></tr>
 </table>
 
-<img src="./assets/divider.svg" width="100%" />
+<img src="divider.svg" width="100%" />
 
 ## 🕷 Spider Sense — Live Diagnostics
 
 <div align="center">
-<img src="./assets/spider-sense-radar.svg" width="380" alt="Spider Sense Radar" />
+<img src="spider-sense-radar.svg" width="380" alt="Spider Sense Radar" />
 </div>
 
 ```
@@ -86,7 +86,7 @@ AI DISCOVERY .............. new paper flagged, reading now
 OPTIMIZATION .............. one line, three hours, no regrets
 ```
 
-<img src="./assets/divider.svg" width="100%" />
+<img src="divider.svg" width="100%" />
 
 ## 🎯 Current Quest
 
@@ -104,7 +104,7 @@ OPTIMIZATION .............. one line, three hours, no regrets
 └─────────────────────────────────────────────┘
 ```
 
-<img src="./assets/divider.svg" width="100%" />
+<img src="divider.svg" width="100%" />
 
 ## 🕸 Tech Arsenal
 
@@ -123,7 +123,7 @@ OPTIMIZATION .............. one line, three hours, no regrets
 </tr>
 </table>
 
-<img src="./assets/divider.svg" width="100%" />
+<img src="divider.svg" width="100%" />
 
 ## 🧪 AI Laboratory
 
@@ -138,7 +138,7 @@ CURRENT EXPERIMENT ........... prompt-driven automation pipeline
 STATUS ........................ IN PROGRESS
 ```
 
-<img src="./assets/divider.svg" width="100%" />
+<img src="divider.svg" width="100%" />
 
 ## 🔍 Data Detective
 
@@ -154,7 +154,7 @@ DECISION ............ flagged 3 previously invisible fraud patterns
 ```
 </details>
 
-<img src="./assets/divider.svg" width="100%" />
+<img src="divider.svg" width="100%" />
 
 ## 🧭 Knowledge Timeline
 
@@ -183,7 +183,7 @@ Entrepreneurship
 Future ⚡
 ```
 
-<img src="./assets/divider.svg" width="100%" />
+<img src="divider.svg" width="100%" />
 
 ## 📖 Project Missions
 
@@ -255,24 +255,24 @@ Future ⚡
 
 </details>
 
-<img src="./assets/divider.svg" width="100%" />
+<img src="divider.svg" width="100%" />
 
 ## 📡 System Analytics
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=05060A&title_color=00C2FF&icon_color=E6002E&text_color=C9D1D9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=05060A&title_color=00C2FF&text_color=C9D1D9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=JasmanjotSarna&show_icons=true&theme=dark&hide_border=true&bg_color=05060A&title_color=00C2FF&icon_color=E6002E&text_color=C9D1D9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasmanjotSarna&layout=compact&theme=dark&hide_border=true&bg_color=05060A&title_color=00C2FF&text_color=C9D1D9" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=dark&hide_border=true&background=05060A&ring=00C2FF&fire=E6002E&currStreakLabel=00C2FF" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JasmanjotSarna&theme=dark&hide_border=true&background=05060A&ring=00C2FF&fire=E6002E&currStreakLabel=00C2FF" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=react-dark&bg_color=05060A&color=00C2FF&line=E6002E&point=7A3CFF&hide_border=true" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JasmanjotSarna&theme=react-dark&bg_color=05060A&color=00C2FF&line=E6002E&point=7A3CFF&hide_border=true" width="90%" />
 </div>
 
-<img src="./assets/divider.svg" width="100%" />
+<img src="divider.svg" width="100%" />
 
 ## 🏆 Achievements
 
@@ -285,7 +285,7 @@ Future ⚡
 [ ] AI Startup — LOADING...
 ```
 
-<img src="./assets/divider.svg" width="100%" />
+<img src="divider.svg" width="100%" />
 
 <details>
 <summary>🔐 <b>Secret Terminal</b> — click if you're curious</summary>
@@ -307,7 +307,7 @@ if you're a fellow builder: my repos are open, dig around.
 ```
 </details>
 
-<img src="./assets/divider.svg" width="100%" />
+<img src="divider.svg" width="100%" />
 
 ## 📟 Communication Terminal
 
@@ -326,7 +326,7 @@ TRANSMISSION CHANNELS
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" />
+<img src="divider.svg" width="100%" />
 
 <div align="center">
 
