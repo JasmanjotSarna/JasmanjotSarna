@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./assets/boot-banner.svg" width="100%" alt="System: Developer.exe" />
+<img src="boot-banner.svg" width="100%" alt="System: Developer.exe" />
 </div>
 
 <pre align="center">
