@@ -1,0 +1,97 @@
+<svg width="1200" height="440" viewBox="0 0 1200 440" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="hud2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#e6002e"/>
+      <stop offset="50%" stop-color="#7a3cff"/>
+      <stop offset="100%" stop-color="#00c2ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="440" fill="#05060a"/>
+
+  <!-- card grid: 3 columns x 2 rows -->
+  <g font-family="'Fira Code','Consolas',monospace">
+
+    <!-- Card 1: AI Core -->
+    <g transform="translate(40,30)">
+      <rect width="360" height="180" rx="10" fill="#0a0c14" stroke="#1c2130"/>
+      <circle cx="60" cy="60" r="34" fill="none" stroke="#1c2130" stroke-width="6"/>
+      <circle cx="60" cy="60" r="34" fill="none" stroke="#3ddc84" stroke-width="6" stroke-linecap="round"
+        stroke-dasharray="214" stroke-dashoffset="10"/>
+      <text x="60" y="66" text-anchor="middle" font-size="13" fill="#3ddc84">100%</text>
+      <text x="110" y="45" font-size="15" fill="#e6e9f2">AI CORE</text>
+      <text x="110" y="66" font-size="13" fill="#3ddc84">● ONLINE</text>
+      <text x="20" y="130" font-size="12" fill="#7a8296">Model accuracy (last run)</text>
+      <text x="20" y="150" font-size="16" fill="#00c2ff">94.2%</text>
+      <text x="200" y="130" font-size="12" fill="#7a8296">Inference</text>
+      <text x="200" y="150" font-size="16" fill="#00c2ff">optimizing</text>
+    </g>
+
+    <!-- Card 2: Data Engine -->
+    <g transform="translate(420,30)">
+      <rect width="360" height="180" rx="10" fill="#0a0c14" stroke="#1c2130"/>
+      <circle cx="60" cy="60" r="34" fill="none" stroke="#1c2130" stroke-width="6"/>
+      <circle cx="60" cy="60" r="34" fill="none" stroke="#00c2ff" stroke-width="6" stroke-linecap="round"
+        stroke-dasharray="214" stroke-dashoffset="10"/>
+      <text x="60" y="66" text-anchor="middle" font-size="13" fill="#00c2ff">100%</text>
+      <text x="110" y="45" font-size="15" fill="#e6e9f2">DATA ENGINE</text>
+      <text x="110" y="66" font-size="13" fill="#3ddc84">● ONLINE</text>
+      <text x="20" y="130" font-size="12" fill="#7a8296">Current build</text>
+      <text x="20" y="150" font-size="15" fill="#e6e9f2">CareerForge AI</text>
+      <text x="200" y="130" font-size="12" fill="#7a8296">Status</text>
+      <text x="200" y="150" font-size="15" fill="#e6e9f2">Active</text>
+    </g>
+
+    <!-- Card 3: Diagnostics module (Spider Sense, minimized) -->
+    <g transform="translate(800,30)">
+      <rect width="360" height="180" rx="10" fill="#0a0c14" stroke="#1c2130"/>
+      <text x="20" y="35" font-size="13" fill="#7a8296">OPTIONAL MODULE</text>
+      <text x="20" y="60" font-size="15" fill="#e6e9f2">Spider-Sense Diagnostics</text>
+      <circle cx="45" cy="95" r="4" fill="#e6002e"><animate attributeName="opacity" values="1;0.3;1" dur="1.4s" repeatCount="indefinite"/></circle>
+      <text x="60" y="100" font-size="12" fill="#c9d1e0">bug pattern detection</text>
+      <circle cx="45" cy="120" r="4" fill="#00c2ff"><animate attributeName="opacity" values="1;0.3;1" dur="1.8s" repeatCount="indefinite"/></circle>
+      <text x="60" y="125" font-size="12" fill="#c9d1e0">dataset anomaly scan</text>
+      <circle cx="45" cy="145" r="4" fill="#7a3cff"><animate attributeName="opacity" values="1;0.3;1" dur="2.1s" repeatCount="indefinite"/></circle>
+      <text x="60" y="150" font-size="12" fill="#c9d1e0">optimization triggers</text>
+    </g>
+
+    <!-- Card 4: Coffee / Energy -->
+    <g transform="translate(40,230)">
+      <rect width="360" height="180" rx="10" fill="#0a0c14" stroke="#1c2130"/>
+      <text x="20" y="35" font-size="15" fill="#e6e9f2">VITALS</text>
+      <text x="20" y="70" font-size="12" fill="#7a8296">Coffee level</text>
+      <rect x="20" y="78" width="320" height="10" rx="5" fill="#1c2130"/>
+      <rect x="20" y="78" width="313" height="10" rx="5" fill="url(#hud2)"/>
+      <text x="20" y="115" font-size="12" fill="#7a8296">Energy</text>
+      <rect x="20" y="123" width="320" height="10" rx="5" fill="#1c2130"/>
+      <rect x="20" y="123" width="256" height="10" rx="5" fill="url(#hud2)"/>
+      <text x="20" y="160" font-size="12" fill="#7a8296">Curiosity</text>
+      <rect x="20" y="168" width="320" height="10" rx="5" fill="#1c2130"/>
+      <rect x="20" y="168" width="318" height="10" rx="5" fill="url(#hud2)"/>
+    </g>
+
+    <!-- Card 5: Learning rate -->
+    <g transform="translate(420,230)">
+      <rect width="360" height="180" rx="10" fill="#0a0c14" stroke="#1c2130"/>
+      <text x="20" y="35" font-size="15" fill="#e6e9f2">LEARNING ENGINE</text>
+      <text x="20" y="75" font-size="12" fill="#7a8296">Learning rate</text>
+      <text x="20" y="105" font-size="28" fill="#00c2ff">∞</text>
+      <text x="200" y="75" font-size="12" fill="#7a8296">Mission status</text>
+      <text x="200" y="100" font-size="15" fill="#3ddc84">● Active</text>
+      <text x="20" y="150" font-size="12" fill="#7a8296">Now reading</text>
+      <text x="20" y="168" font-size="13" fill="#e6e9f2">Applied GenAI research, weekly</text>
+    </g>
+
+    <!-- Card 6: Mission -->
+    <g transform="translate(800,230)">
+      <rect width="360" height="180" rx="10" fill="#0a0c14" stroke="#1c2130"/>
+      <text x="20" y="35" font-size="15" fill="#e6e9f2">CURRENT MISSION</text>
+      <text x="20" y="65" font-size="13" fill="#c9d1e0">Building an AI-powered</text>
+      <text x="20" y="83" font-size="13" fill="#c9d1e0">developer platform</text>
+      <text x="20" y="120" font-size="12" fill="#7a8296">Priority</text>
+      <text x="120" y="120" font-size="12" fill="#e6002e">★★★★☆</text>
+      <text x="20" y="150" font-size="12" fill="#7a8296">Deployment</text>
+      <text x="150" y="150" font-size="12" fill="#3ddc84">staging → prod</text>
+    </g>
+
+  </g>
+</svg>
