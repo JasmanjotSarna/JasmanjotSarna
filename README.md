@@ -1,190 +1,541 @@
 <div align="center">
-<img src="hero.svg" width="100%" alt="Developer.OS — identity verified" />
-</div>
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2600&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Every+dataset+hides+a+story.;Every+algorithm+solves+a+mystery.;Every+project+teaches+something+new.;Welcome+to+the+system." alt="Typing SVG" />
-</div>
+<img src="hero.svg" width="100%" alt="Developer.OS — AI Engineer System" />
 
-<img src="divider.svg" width="100%" />
+<br/>
 
-## Identity
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2600&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=AI%2FML+Engineer.;Full-Stack+Developer.;Data+Scientist.;Data+Analyst.;Building+intelligent+systems+end-to-end.;Welcome+to+the+system." alt="Typing SVG" />
 
-```
-> whoami
-```
-
-```
-Role         AI Engineer / Builder
-Focus        Applied AI, data systems, developer tools
-Trajectory   Engineer → Builder → Startup Founder
-Status       Available for opportunities & collaboration
-```
+<br/>
 
 <img src="divider.svg" width="100%" />
 
-## System Dashboard
-
-<div align="center">
-<img src="dashboard.svg" width="100%" alt="System Dashboard" />
 </div>
 
-<sub>Every value above also exists as plain text below — the dashboard is a visual layer, not the only source of truth.</sub>
+# `Developer.OS`
+
+```text
+> boot Developer.OS
+
+Initializing neural systems ............ OK
+Loading engineering modules ............ OK
+Loading data systems ................... OK
+Loading full-stack environment ......... OK
+Connecting imagination to execution ... OK
+
+SYSTEM READY.
+```
+
+---
+
+## `> whoami`
+
+```text
+IDENTITY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Primary Role    AI/ML Engineer
+Specialization  Full-Stack Development
+                 Data Science
+                 Data Analytics
+
+Core Strength   End-to-End AI Product Development
+
+I BUILD:
+Data → Analysis → ML → AI → Backend → Frontend → Deployment
+
+Mindset         Engineer · Builder · Analyst · Problem Solver
+Trajectory      Engineer → Builder → AI Product Developer → Founder
+Status          Building. Learning. Shipping.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+> **I don't just build models. I build systems around them.**
+
+---
+
+<img src="divider.svg" width="100%" />
+
+## `> system.dashboard`
+
+<div align="center">
+
+<img src="dashboard.svg" width="100%" alt="AI Developer System Dashboard" />
+
+</div>
 
 <details>
-<summary>Dashboard as text (accessibility-friendly)</summary>
+<summary><b>Dashboard as text</b></summary>
 
+```text
+AI CORE ...................... ONLINE
+ML ENGINE .................... ONLINE
+DATA ENGINE .................. ONLINE
+VISION MODULE ................ ONLINE
+FULL-STACK ENGINE ............ ONLINE
+API SYSTEM ................... ONLINE
+DEPLOYMENT PIPELINE .......... ACTIVE
+
+CURIOSITY .................... 99%
+LEARNING RATE ................ ∞
+BUILD MODE ................... ACTIVE
+MISSION STATUS ............... IN PROGRESS
+
+CURRENT OBJECTIVE:
+Build intelligent products that solve real-world problems.
 ```
-AI CORE ................. ONLINE   (accuracy 94.2%)
-DATA ENGINE .............. ONLINE   (build: CareerForge AI)
-DIAGNOSTICS MODULE ........ optional — bug/anomaly/optimization scanning
-COFFEE LEVEL .............. 98%
-ENERGY ..................... 80%
-CURIOSITY .................. 99%
-LEARNING RATE ............. ∞
-MISSION STATUS ............. Active — building an AI-powered developer platform
-```
+
 </details>
 
+---
+
 <img src="divider.svg" width="100%" />
 
-## Capabilities
+## `> capabilities`
+
+### 🧠 AI / ML ENGINEERING
+
+```text
+Machine Learning
+Deep Learning
+Generative AI
+Large Language Models
+Computer Vision
+Natural Language Processing
+Model Evaluation
+Prompt Engineering
+AI Application Development
+```
+
+### 💻 FULL-STACK DEVELOPMENT
+
+```text
+Frontend
+  React · JavaScript · TypeScript · HTML · CSS
+
+Backend
+  Python · APIs · REST · Server Architecture
+
+Data & Storage
+  SQL · Databases
+
+Deployment
+  Git · GitHub · Docker · Vercel · Cloud Platforms
+```
+
+### 📊 DATA SCIENCE
+
+```text
+Python
+NumPy
+Pandas
+Scikit-learn
+Matplotlib
+Statistics
+Data Cleaning
+Feature Engineering
+Model Training
+Model Evaluation
+```
+
+### 📈 DATA ANALYTICS
+
+```text
+SQL
+Pandas
+Excel
+Power BI
+Tableau
+Data Visualization
+Exploratory Data Analysis
+Dashboard Development
+Business Insights
+```
+
+---
+
+## `> tech.stack`
 
 <div align="center">
-<img src="neural-network.svg" width="100%" alt="Capability network" />
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,cpp,typescript,javascript,sql" />
+
+### AI / ML
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+
+### Full Stack
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,html,css" />
+
+### Tools / Cloud
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,azure,vercel,vscode" />
+
 </div>
 
-<table>
-<tr><th>Core</th><th>AI / ML</th><th>Data</th><th>Infra</th></tr>
-<tr>
-<td>Python<br/>TypeScript<br/>SQL · C++</td>
-<td>PyTorch · TensorFlow<br/>Computer Vision<br/>Prompt Engineering</td>
-<td>Pandas · NumPy<br/>Power BI · Tableau</td>
-<td>Docker · AWS<br/>Vercel · Azure</td>
-</tr>
-</table>
+---
 
 <img src="divider.svg" width="100%" />
 
-## Mission Control — Projects
+## `> architecture`
+
+<div align="center">
+
+```text
+                     ┌─────────────────────┐
+                     │       PROBLEM       │
+                     └──────────┬──────────┘
+                                ↓
+                     ┌─────────────────────┐
+                     │       DATA          │
+                     │  Collect · Clean    │
+                     │  Analyze · Engineer │
+                     └──────────┬──────────┘
+                                ↓
+                     ┌─────────────────────┐
+                     │     AI / ML         │
+                     │ Train · Evaluate    │
+                     │ Predict · Generate  │
+                     └──────────┬──────────┘
+                                ↓
+               ┌────────────────────────────────┐
+               │          AI ENGINE              │
+               │   Models · LLMs · Computer     │
+               │   Vision · Intelligent Logic   │
+               └───────────────┬────────────────┘
+                               ↓
+              ┌──────────────────────────────────┐
+              │          APPLICATION             │
+              │                                  │
+              │  Frontend ←→ Backend ←→ APIs    │
+              └────────────────┬─────────────────┘
+                               ↓
+                     ┌─────────────────────┐
+                     │     DEPLOYMENT      │
+                     │ Cloud · Docker · CI │
+                     └──────────┬──────────┘
+                                ↓
+                     ┌─────────────────────┐
+                     │       PRODUCT       │
+                     └─────────────────────┘
+```
+
+</div>
+
+> **One engineer. Multiple disciplines. One complete system.**
+
+---
+
+<img src="divider.svg" width="100%" />
+
+## `> mission.control`
+
+### `MC-001 · CareerForge AI`
 
 <details open>
-<summary><b>MC-001 · CareerForge AI</b> — Priority: High · Status: Active</summary>
-<br/>
+<summary><b>AI Career Intelligence Platform</b> · Priority: HIGH · Status: ACTIVE</summary>
 
+```text
+OBJECTIVE
+Transform raw experience into targeted career applications.
+
+AI LAYER
+Role-aware LLM guidance
+Prompt-engineered workflows
+Personalized recommendations
+
+STACK
+Python · LLMs · React
+
+PROGRESS
+████████░░ 80%
+
+STATUS
+Staging → Production
+
+NEXT
+Multi-language support
 ```
-Objective       Turn raw experience into a targeted job application
-Approach        Role-aware LLM guidance, prompt-engineered pipeline
-Technology      Python · LLMs · React
-Progress        ████████░░ 80%
-Deployment      staging → production
-Impact          Personalized, role-specific career guidance
-Next            Multi-language support
-```
+
 </details>
+
+---
+
+### `MC-002 · Trading Dashboard`
 
 <details>
-<summary><b>MC-002 · Trading Dashboard</b> — Priority: Medium · Status: Maintained</summary>
-<br/>
+<summary><b>Real-Time Market Intelligence Dashboard</b> · Priority: MEDIUM · Status: COMPLETE</summary>
 
+```text
+OBJECTIVE
+Convert real-time market data into decision-ready insights.
+
+STACK
+Python · Pandas · APIs · Data Visualization
+
+PROGRESS
+██████████ 100%
+
+STATUS
+Production
+
+NEXT
+Predictive alerts
 ```
-Objective       Real-time market data → decision-ready view
-Technology      Python · Pandas · APIs · Data Viz
-Progress        ██████████ 100%
-Deployment      Production
-Next            Predictive alerts
-```
+
 </details>
+
+---
+
+### `MC-003 · Face Emotion Recognition`
 
 <details>
-<summary><b>MC-003 · Face Emotion Recognition</b> — Priority: Medium · Status: Complete</summary>
-<br/>
+<summary><b>Computer Vision Emotion Recognition System</b> · Priority: MEDIUM · Status: COMPLETE</summary>
 
+```text
+OBJECTIVE
+Classify human emotions from facial expressions.
+
+STACK
+Python · OpenCV · CNNs · TensorFlow
+
+PROGRESS
+██████████ 100%
+
+STATUS
+Complete
+
+NEXT
+Edge-device deployment
 ```
-Objective       Real-time emotion classification from expressions
-Technology      Python · OpenCV · CNNs · TensorFlow
-Progress        ██████████ 100%
-Next            Edge-device deployment
-```
+
 </details>
+
+---
+
+### `MC-004 · Air Canvas`
 
 <details>
-<summary><b>MC-004 · Air Canvas</b> — Priority: Low · Status: Complete</summary>
-<br/>
+<summary><b>Touchless AI Drawing System</b> · Priority: MEDIUM · Status: COMPLETE</summary>
 
+```text
+OBJECTIVE
+Create a touchless drawing interface using hand tracking.
+
+STACK
+Python · OpenCV · MediaPipe
+
+PROGRESS
+██████████ 100%
+
+STATUS
+Complete
+
+NEXT
+Multi-hand gesture support
 ```
-Objective       Touchless drawing via hand-tracking
-Technology      Python · OpenCV · MediaPipe
-Progress        ██████████ 100%
-Next            Multi-hand gesture support
-```
+
 </details>
+
+---
 
 <img src="divider.svg" width="100%" />
 
-## Journey
+## `> currently.building`
 
+```text
+┌─────────────────────────────────────────────────┐
+│                CURRENT MISSION                  │
+├─────────────────────────────────────────────────┤
+│                                                 │
+│  → Building AI-powered products                │
+│  → Strengthening ML & Deep Learning             │
+│  → Building production-ready full-stack apps   │
+│  → Exploring LLM & Generative AI systems       │
+│  → Turning data into intelligent decisions      │
+│  → Learning how to take AI from idea → product │
+│                                                 │
+└─────────────────────────────────────────────────┘
 ```
-Beginning → Programming → Data → Machine Learning → AI
-→ Building Products → Entrepreneurship → Future
-```
+
+### Long-Term Mission
+
+> **Build AI systems that are useful enough to become products.**
+
+---
 
 <img src="divider.svg" width="100%" />
 
-## System Analytics
+## `> engineering.journey`
+
+```text
+                    PROGRAMMING
+                         │
+                         ↓
+                  DATA ANALYTICS
+                         │
+                         ↓
+                   DATA SCIENCE
+                         │
+                         ↓
+                MACHINE LEARNING
+                         │
+                         ↓
+                  DEEP LEARNING
+                         │
+                         ↓
+                  GENERATIVE AI
+                         │
+                         ↓
+              FULL-STACK ENGINEERING
+                         │
+                         ↓
+                  AI ENGINEERING
+                         │
+                         ↓
+               END-TO-END PRODUCTS
+                         │
+                         ↓
+                ENTREPRENEURSHIP
+```
+
+---
+
+<img src="divider.svg" width="100%" />
+
+## `> operating.principles`
+
+```text
+BUILD  >  CONSUME
+
+SHIP   >  PERFECT
+
+UNDERSTAND > MEMORIZE
+
+SYSTEMS > SHORTCUTS
+
+DEPTH + BREADTH > LIMITING YOURSELF
+
+IDEA → PROTOTYPE → PRODUCT → IMPACT
+```
+
+---
+
+<img src="divider.svg" width="100%" />
+
+## `> system.analytics`
 
 <div align="center">
-<div align="center">
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=JasmanjotSarna&theme=dark&hide_border=true&background=05060A&ring=00C2FF&fire=E6002E&currStreakLabel=00C2FF" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=JasmanjotSarna&show_icons=true&theme=dark&hide_border=true&bg_color=05060A&title_color=00C2FF&icon_color=00C2FF&text_color=FFFFFF" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasmanjotSarna&layout=compact&theme=dark&hide_border=true&bg_color=05060A&title_color=00C2FF&text_color=FFFFFF" />
+
 </div>
+
+---
 
 <img src="divider.svg" width="100%" />
 
-## Console
+## `> console`
 
-Type a command — this is a static representation, but each block below is a real "response" for that command:
-
-```
+```text
 > help
-  available: whoami · projects · skills · future · coffee · status · unlock
 
-> future
-  building an AI startup, one shipped project at a time.
+AVAILABLE COMMANDS
 
-> coffee
-  critical. always.
-
-> unlock
-  01010111 01100101 01101100 01100011 01101111 01101101 01100101
-  (you found the hidden layer. hi.)
+whoami       → display identity
+skills       → display capabilities
+projects     → display mission projects
+stack        → display technology stack
+journey      → display engineering journey
+future       → display long-term mission
+coffee       → check system fuel
+status       → display system status
+unlock       → access hidden layer
 ```
+
+```text
+> future
+
+Building AI systems.
+Building products.
+Building the skills to build a company.
+
+One shipped project at a time.
+```
+
+```text
+> coffee
+
+CRITICAL.
+
+Always.
+```
+
+```text
+> unlock
+
+01010111 01100101 01101100 01100011 01101111 01101101 01100101
+
+Hidden layer detected.
+
+Welcome, developer.
+```
+
+---
 
 <img src="divider.svg" width="100%" />
 
-## Transmission — Contact
+## `> transmission.contact`
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GITHUB-05060A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JasmanjotSarna)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-00C2FF?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/jasmanjot-singh-sarna-0a2539286/)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-7A3CFF?style=for-the-badge&logo=vercel&logoColor=white)](https://jasmanjot-portfolio.vercel.app/)
-[![Email](https://img.shields.io/badge/EMAIL-E6002E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jasmanjotsinghsarna@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-05060A?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/JasmanjotSarna)
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-00C2FF?style=for-the-badge\&logo=linkedin\&logoColor=black)](https://www.linkedin.com/in/jasmanjot-singh-sarna-0a2539286/)
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-7A3CFF?style=for-the-badge\&logo=vercel\&logoColor=white)](https://jasmanjot-portfolio.vercel.app/)
+
+[![Email](https://img.shields.io/badge/EMAIL-E6002E?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:jasmanjotsinghsarna@gmail.com)
 
 </div>
 
-<img src="divider.svg" width="100%" />
+---
 
 <div align="center">
 
-```
+```text
 SYSTEM STATUS
-━━━━━━━━━━━━━━━━━━━━━━━
-AI CORE ........ OPERATIONAL
-LEARNING ENGINE . RUNNING
-CURRENT MISSION . IN PROGRESS
-FUTURE STARTUP .. INITIALIZING...
-━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+AI / ML ENGINE ........ OPERATIONAL
+DATA ENGINE ........... OPERATIONAL
+FULL-STACK ENGINE ..... OPERATIONAL
+VISION MODULE ......... ONLINE
+BUILD ENGINE .......... ACTIVE
+LEARNING ENGINE ....... RUNNING
+
+CURRENT MISSION ....... IN PROGRESS
+AI PRODUCT ............ BUILDING
+FOUNDER MODE ........... INITIALIZING
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+> No finish line detected.
 ```
+
+<br/>
 
 <sub>See you in the next commit.</sub>
 
