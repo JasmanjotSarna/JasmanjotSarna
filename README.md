@@ -402,15 +402,7 @@ width="495"
 alt="GitHub Contribution Streak"
 />
 
-<br/><br/>
-
-<!-- Live GitHub contribution activity -->
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=JasmanjotSarna&bg_color=05060A&color=00C2FF&line=00C2FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity"
-width="96%"
-alt="GitHub Contribution Activity Graph"
-/>
+<br/>
 
 </div>
 
