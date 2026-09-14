@@ -385,11 +385,41 @@ IDEA → PROTOTYPE → PRODUCT → IMPACT
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JasmanjotSarna&theme=dark&hide_border=true&background=05060A&ring=00C2FF&fire=E6002E&currStreakLabel=00C2FF" />
+### `GITHUB ACTIVITY`
+
+<img src="https://github-readme-stats.vercel.app/api?username=JasmanjotSarna&show_icons=true&hide_border=true&bg_color=05060A&title_color=00C2FF&text_color=FFFFFF&icon_color=00C2FF&include_all_commits=true&count_private=true" width="49%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JasmanjotSarna&theme=dark&hide_border=true&background=05060A&ring=00C2FF&fire=E6002E&currStreakLabel=00C2FF" width="49%" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JasmanjotSarna&bg_color=05060A&color=00C2FF&line=00C2FF&point=FFFFFF&area=true&hide_border=true" width="98%" />
+
+</div>
 
 <br/>
 
-</div>
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                     DEVELOPER.OS / ANALYTICS                 │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  CONTRIBUTION ENGINE ............. LIVE                      │
+│  COMMIT ACTIVITY ................ TRACKED                    │
+│  DEVELOPMENT STREAK ............. TRACKED                    │
+│  REPOSITORY ACTIVITY ............ ACTIVE                     │
+│                                                              │
+│  BUILD FREQUENCY ................ INCREASING                 │
+│  SHIPPING STATUS ................ ACTIVE                     │
+│  SYSTEM STATE ................... BUILDING                   │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+> **Code is the output. Consistency is the engine.**
+
+---
+
 
 ---
 
