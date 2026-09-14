@@ -25,7 +25,7 @@ Loading full-stack environment .......... OK
 Connecting imagination to execution ..... OK
 
 SYSTEM READY.
-```
+````
 
 ---
 
@@ -138,18 +138,23 @@ Dashboard Development · Business Insight Generation
 <div align="center">
 
 **Languages**
+
 <img src="https://skillicons.dev/icons?i=python,cpp,typescript,javascript,sql" />
 
 **AI / ML**
+
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
 
 **Full Stack**
+
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,vue,html,css" />
 
 **Data & Infra**
+
 <img src="https://skillicons.dev/icons?i=postgres,redis,docker,vercel" />
 
 **Tools / Cloud**
+
 <img src="https://skillicons.dev/icons?i=git,github,aws,azure,vscode" />
 
 </div>
@@ -168,20 +173,20 @@ Dashboard Development · Business Insight Generation
                      └──────────┬──────────┘
                                 ↓
           ┌─────────────────────────────────────────┐
-          │              DATA LAYER                  │
-          │   Collect · Clean · Analyze · Engineer   │
-          └──────────────────────┬────────────────────┘
+          │              DATA LAYER                 │
+          │   Collect · Clean · Analyze · Engineer  │
+          └──────────────────────┬──────────────────┘
                                  ↓
           ┌─────────────────────────────────────────┐
-          │            AI / ML LAYER                  │
-          │  Train · Evaluate · Predict · Generate    │
-          │      Models · LLMs · Computer Vision      │
-          └──────────────────────┬────────────────────┘
+          │            AI / ML LAYER                │
+          │  Train · Evaluate · Predict · Generate  │
+          │      Models · LLMs · Computer Vision    │
+          └──────────────────────┬──────────────────┘
                                  ↓
           ┌─────────────────────────────────────────┐
-          │             APPLICATION                   │
-          │     Frontend ←→ Backend ←→ APIs           │
-          └──────────────────────┬────────────────────┘
+          │             APPLICATION                 │
+          │     Frontend ←→ Backend ←→ APIs         │
+          └──────────────────────┬──────────────────┘
                                  ↓
                      ┌─────────────────────┐
                      │     DEPLOYMENT      │
@@ -387,13 +392,25 @@ IDEA → PROTOTYPE → PRODUCT → IMPACT
 
 ### `GITHUB ACTIVITY`
 
-<img src="https://github-readme-stats.vercel.app/api?username=JasmanjotSarna&show_icons=true&hide_border=true&bg_color=05060A&title_color=00C2FF&text_color=FFFFFF&icon_color=00C2FF&include_all_commits=true&count_private=true" width="49%" />
+<br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JasmanjotSarna&theme=dark&hide_border=true&background=05060A&ring=00C2FF&fire=E6002E&currStreakLabel=00C2FF" width="49%" />
+<!-- Live contribution + streak data -->
+
+<img
+src="https://streak-stats.demolab.com/?user=JasmanjotSarna&starting_year=2021&theme=dark&hide_border=true&background=05060A&ring=00C2FF&fire=E6002E&currStreakLabel=00C2FF&sideLabels=FFFFFF&dates=FFFFFF"
+width="495"
+alt="GitHub Contribution Streak"
+/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JasmanjotSarna&bg_color=05060A&color=00C2FF&line=00C2FF&point=FFFFFF&area=true&hide_border=true" width="98%" />
+<!-- Live GitHub contribution activity -->
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=JasmanjotSarna&bg_color=05060A&color=00C2FF&line=00C2FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity"
+width="96%"
+alt="GitHub Contribution Activity Graph"
+/>
 
 </div>
 
@@ -407,7 +424,7 @@ IDEA → PROTOTYPE → PRODUCT → IMPACT
 │  CONTRIBUTION ENGINE ............. LIVE                      │
 │  COMMIT ACTIVITY ................ TRACKED                    │
 │  DEVELOPMENT STREAK ............. TRACKED                    │
-│  REPOSITORY ACTIVITY ............ ACTIVE                     │
+│  CONTRIBUTION GRAPH ............. LIVE                      │
 │                                                              │
 │  BUILD FREQUENCY ................ INCREASING                 │
 │  SHIPPING STATUS ................ ACTIVE                     │
@@ -417,9 +434,6 @@ IDEA → PROTOTYPE → PRODUCT → IMPACT
 ```
 
 > **Code is the output. Consistency is the engine.**
-
----
-
 
 ---
 
@@ -476,10 +490,10 @@ Welcome, developer.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GITHUB-05060A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JasmanjotSarna)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-00C2FF?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/jasmanjot-singh-sarna-0a2539286/)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-7A3CFF?style=for-the-badge&logo=vercel&logoColor=white)](https://jasmanjot-portfolio.vercel.app/)
-[![Email](https://img.shields.io/badge/EMAIL-E6002E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jasmanjotsinghsarna@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-05060A?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/JasmanjotSarna)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-00C2FF?style=for-the-badge\&logo=linkedin\&logoColor=black)](https://www.linkedin.com/in/jasmanjot-singh-sarna-0a2539286/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-7A3CFF?style=for-the-badge\&logo=vercel\&logoColor=white)](https://jasmanjot-portfolio.vercel.app/)
+[![Email](https://img.shields.io/badge/EMAIL-E6002E?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:jasmanjotsinghsarna@gmail.com)
 
 </div>
 
@@ -508,3 +522,4 @@ FOUNDER MODE ............. INITIALIZING
 <sub>See you in the next commit.</sub>
 
 </div>
+
