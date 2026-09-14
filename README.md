@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2600&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=AI%2FML+Engineer.;Full-Stack+Developer.;Data+Scientist.;Data+Analyst.;Building+intelligent+systems+end-to-end.;Welcome+to+the+system." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=900&color=00C2FF&center=true&vCenter=true&width=850&lines=AI%2FML+Engineer.;Full-Stack+Developer.;Data+Scientist.;Data+Analyst.;One+engineer.+Four+disciplines.;Welcome+to+Developer.OS." alt="Typing SVG" />
 
 <br/>
 
@@ -18,10 +18,11 @@
 > boot Developer.OS
 
 Initializing neural systems ............ OK
-Loading engineering modules ............ OK
-Loading data systems ................... OK
-Loading full-stack environment ......... OK
-Connecting imagination to execution ... OK
+Loading ML / AI engine .................. OK
+Loading data science engine ............. OK
+Loading data analytics engine ........... OK
+Loading full-stack environment .......... OK
+Connecting imagination to execution ..... OK
 
 SYSTEM READY.
 ```
@@ -31,27 +32,29 @@ SYSTEM READY.
 ## `> whoami`
 
 ```text
-IDENTITY
+NAME            Jasmanjot Singh Sarna
+ROLE            AI Full-Stack Developer @ Lavelda Coffee Beans LLP
+LEADERSHIP      Head of Incoming Social Sector, AIESEC Jaipur
+BUILDING        CareerForge OS (co-founder)
+EDUCATION       B.Tech CS (AI & ML), JECRC University — Class of 2027
+```
+
+```text
+FOUR DISCIPLINES. ONE STACK.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Primary Role    AI/ML Engineer
-Specialization  Full-Stack Development
-                 Data Science
-                 Data Analytics
+🧠 AI / ML ENGINEER     → models, LLMs, computer vision, RAG systems
+💻 FULL-STACK DEVELOPER → production apps, APIs, real infrastructure
+📊 DATA SCIENTIST       → cleaning, features, training, evaluation
+📈 DATA ANALYST         → SQL, dashboards, insight, decisions
 
-Core Strength   End-to-End AI Product Development
-
-I BUILD:
-Data → Analysis → ML → AI → Backend → Frontend → Deployment
-
-Mindset         Engineer · Builder · Analyst · Problem Solver
-Trajectory      Engineer → Builder → AI Product Developer → Founder
-Status          Building. Learning. Shipping.
-
+Mindset      Engineer · Builder · Analyst · Problem Solver
+Trajectory   Engineer → Builder → AI Product Developer → Founder
+Status       Building. Learning. Shipping.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
-> **I don't just build models. I build systems around them.**
+> **I don't just build models. I build the systems, the data pipelines, and the products around them.**
 
 ---
 
@@ -69,21 +72,20 @@ Status          Building. Learning. Shipping.
 <summary><b>Dashboard as text</b></summary>
 
 ```text
-AI CORE ...................... ONLINE
-ML ENGINE .................... ONLINE
-DATA ENGINE .................. ONLINE
-VISION MODULE ................ ONLINE
-FULL-STACK ENGINE ............ ONLINE
-API SYSTEM ................... ONLINE
-DEPLOYMENT PIPELINE .......... ACTIVE
+AI / ML ENGINE ................ ONLINE
+DATA SCIENCE ENGINE ........... ONLINE
+DATA ANALYTICS ENGINE ......... ONLINE
+FULL-STACK ENGINE ............. ONLINE
+VISION MODULE .................. ONLINE
+API / RAG SYSTEM .............. ONLINE
+DEPLOYMENT PIPELINE ........... ACTIVE
 
-CURIOSITY .................... 99%
-LEARNING RATE ................ ∞
-BUILD MODE ................... ACTIVE
-MISSION STATUS ............... IN PROGRESS
+CURIOSITY ....................... 99%
+LEARNING RATE ................... ∞
+BUILD MODE ...................... ACTIVE
 
 CURRENT OBJECTIVE:
-Build intelligent products that solve real-world problems.
+Build intelligent, data-grounded products that ship.
 ```
 
 </details>
@@ -97,60 +99,36 @@ Build intelligent products that solve real-world problems.
 ### 🧠 AI / ML ENGINEERING
 
 ```text
-Machine Learning
-Deep Learning
-Generative AI
-Large Language Models
-Computer Vision
-Natural Language Processing
-Model Evaluation
-Prompt Engineering
-AI Application Development
+Machine Learning · Deep Learning · Generative AI
+Large Language Models · Computer Vision · NLP
+RAG Pipelines (LangChain, FAISS, Pinecone)
+Prompt Engineering · Model Evaluation
 ```
 
 ### 💻 FULL-STACK DEVELOPMENT
 
 ```text
-Frontend
-  React · JavaScript · TypeScript · HTML · CSS
-
-Backend
-  Python · APIs · REST · Server Architecture
-
-Data & Storage
-  SQL · Databases
-
-Deployment
-  Git · GitHub · Docker · Vercel · Cloud Platforms
+Frontend    React · Next.js · Vue 3 / Pinia · TypeScript
+Backend     Python · NestJS · REST APIs · Server Architecture
+Data Layer  PostgreSQL · Prisma · Redis
+Infra       Docker · Neon · Upstash · Git · Vercel
 ```
 
 ### 📊 DATA SCIENCE
 
 ```text
-Python
-NumPy
-Pandas
-Scikit-learn
-Matplotlib
-Statistics
-Data Cleaning
-Feature Engineering
-Model Training
-Model Evaluation
+Python · NumPy · Pandas · Scikit-learn
+K-Means Clustering · RFM Segmentation
+TensorFlow · PyTorch · OpenCV
+Feature Engineering · Model Training & Evaluation
 ```
 
 ### 📈 DATA ANALYTICS
 
 ```text
-SQL
-Pandas
-Excel
-Power BI
-Tableau
-Data Visualization
-Exploratory Data Analysis
-Dashboard Development
-Business Insights
+SQL · Pandas · Excel · Power BI · Tableau
+Data Visualization · Exploratory Data Analysis
+Dashboard Development · Business Insight Generation
 ```
 
 ---
@@ -159,21 +137,20 @@ Business Insights
 
 <div align="center">
 
-### Languages
-
+**Languages**
 <img src="https://skillicons.dev/icons?i=python,cpp,typescript,javascript,sql" />
 
-### AI / ML
-
+**AI / ML**
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
 
-### Full Stack
+**Full Stack**
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,vue,html,css" />
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,html,css" />
+**Data & Infra**
+<img src="https://skillicons.dev/icons?i=postgres,redis,docker,vercel" />
 
-### Tools / Cloud
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,azure,vercel,vscode" />
+**Tools / Cloud**
+<img src="https://skillicons.dev/icons?i=git,github,aws,azure,vscode" />
 
 </div>
 
@@ -190,30 +167,22 @@ Business Insights
                      │       PROBLEM       │
                      └──────────┬──────────┘
                                 ↓
-                     ┌─────────────────────┐
-                     │       DATA          │
-                     │  Collect · Clean    │
-                     │  Analyze · Engineer │
-                     └──────────┬──────────┘
-                                ↓
-                     ┌─────────────────────┐
-                     │     AI / ML         │
-                     │ Train · Evaluate    │
-                     │ Predict · Generate  │
-                     └──────────┬──────────┘
-                                ↓
-               ┌────────────────────────────────┐
-               │          AI ENGINE              │
-               │   Models · LLMs · Computer     │
-               │   Vision · Intelligent Logic   │
-               └───────────────┬────────────────┘
-                               ↓
-              ┌──────────────────────────────────┐
-              │          APPLICATION             │
-              │                                  │
-              │  Frontend ←→ Backend ←→ APIs    │
-              └────────────────┬─────────────────┘
-                               ↓
+          ┌─────────────────────────────────────────┐
+          │              DATA LAYER                  │
+          │   Collect · Clean · Analyze · Engineer   │
+          └──────────────────────┬────────────────────┘
+                                 ↓
+          ┌─────────────────────────────────────────┐
+          │            AI / ML LAYER                  │
+          │  Train · Evaluate · Predict · Generate    │
+          │      Models · LLMs · Computer Vision      │
+          └──────────────────────┬────────────────────┘
+                                 ↓
+          ┌─────────────────────────────────────────┐
+          │             APPLICATION                   │
+          │     Frontend ←→ Backend ←→ APIs           │
+          └──────────────────────┬────────────────────┘
+                                 ↓
                      ┌─────────────────────┐
                      │     DEPLOYMENT      │
                      │ Cloud · Docker · CI │
@@ -226,7 +195,7 @@ Business Insights
 
 </div>
 
-> **One engineer. Multiple disciplines. One complete system.**
+> **One engineer. Four disciplines. One complete system.**
 
 ---
 
@@ -234,22 +203,24 @@ Business Insights
 
 ## `> mission.control`
 
-### `MC-001 · CareerForge AI`
+### `MC-001 · CareerForge OS`
 
 <details open>
-<summary><b>AI Career Intelligence Platform</b> · Priority: HIGH · Status: ACTIVE</summary>
+<summary><b>AI-Powered Career Intelligence Platform</b> · Priority: HIGH · Status: ACTIVE</summary>
 
 ```text
 OBJECTIVE
-Transform raw experience into targeted career applications.
+Turn raw experience into a targeted, ATS-ready career strategy.
 
-AI LAYER
-Role-aware LLM guidance
-Prompt-engineered workflows
-Personalized recommendations
+CORE SYSTEMS
+9-stage Career Journey™ state machine
+Career Score™ engine
+Resume Suite — two-tier ATS scoring
+Interview Suite — adaptive question generation
+Auth with refresh-token rotation
 
 STACK
-Python · LLMs · React
+Next.js · NestJS · PostgreSQL/Prisma · Redis
 
 PROGRESS
 ████████░░ 80%
@@ -258,14 +229,38 @@ STATUS
 Staging → Production
 
 NEXT
-Multi-language support
+Docker → Neon/Upstash infra migration
 ```
 
 </details>
 
 ---
 
-### `MC-002 · Trading Dashboard`
+### `MC-002 · RazorGrowth AI`
+
+<details>
+<summary><b>AI-Powered Merchant Analytics</b> · Priority: MEDIUM · Status: ACTIVE</summary>
+
+```text
+OBJECTIVE
+Turn raw transaction data into merchant growth signals.
+
+CORE SYSTEMS
+RFM segmentation
+K-Means clustering pipeline
+
+STACK
+Python · Pandas · Scikit-learn
+
+STATUS
+Building
+```
+
+</details>
+
+---
+
+### `MC-003 · Trading Dashboard`
 
 <details>
 <summary><b>Real-Time Market Intelligence Dashboard</b> · Priority: MEDIUM · Status: COMPLETE</summary>
@@ -282,23 +277,20 @@ PROGRESS
 
 STATUS
 Production
-
-NEXT
-Predictive alerts
 ```
 
 </details>
 
 ---
 
-### `MC-003 · Face Emotion Recognition`
+### `MC-004 · Face Emotion Recognition`
 
 <details>
-<summary><b>Computer Vision Emotion Recognition System</b> · Priority: MEDIUM · Status: COMPLETE</summary>
+<summary><b>Computer Vision Emotion Classifier</b> · Priority: MEDIUM · Status: COMPLETE</summary>
 
 ```text
 OBJECTIVE
-Classify human emotions from facial expressions.
+Classify human emotions from facial expressions in real time.
 
 STACK
 Python · OpenCV · CNNs · TensorFlow
@@ -308,23 +300,20 @@ PROGRESS
 
 STATUS
 Complete
-
-NEXT
-Edge-device deployment
 ```
 
 </details>
 
 ---
 
-### `MC-004 · Air Canvas`
+### `MC-005 · Air Canvas`
 
 <details>
-<summary><b>Touchless AI Drawing System</b> · Priority: MEDIUM · Status: COMPLETE</summary>
+<summary><b>Touchless AI Drawing System</b> · Priority: LOW · Status: COMPLETE</summary>
 
 ```text
 OBJECTIVE
-Create a touchless drawing interface using hand tracking.
+Draw in the air using nothing but hand tracking.
 
 STACK
 Python · OpenCV · MediaPipe
@@ -334,9 +323,6 @@ PROGRESS
 
 STATUS
 Complete
-
-NEXT
-Multi-hand gesture support
 ```
 
 </details>
@@ -351,20 +337,17 @@ Multi-hand gesture support
 ┌─────────────────────────────────────────────────┐
 │                CURRENT MISSION                  │
 ├─────────────────────────────────────────────────┤
-│                                                 │
-│  → Building AI-powered products                │
-│  → Strengthening ML & Deep Learning             │
-│  → Building production-ready full-stack apps   │
-│  → Exploring LLM & Generative AI systems       │
+│  → Shipping CareerForge OS to production        │
+│  → Strengthening RAG & LLM system design        │
+│  → Sharpening data science + analytics fluency  │
+│  → Leading Incoming Social Sector @ AIESEC      │
 │  → Turning data into intelligent decisions      │
-│  → Learning how to take AI from idea → product │
-│                                                 │
 └─────────────────────────────────────────────────┘
 ```
 
 ### Long-Term Mission
 
-> **Build AI systems that are useful enough to become products.**
+> **Build AI systems useful enough to become products — and a company around them.**
 
 ---
 
@@ -373,34 +356,9 @@ Multi-hand gesture support
 ## `> engineering.journey`
 
 ```text
-                    PROGRAMMING
-                         │
-                         ↓
-                  DATA ANALYTICS
-                         │
-                         ↓
-                   DATA SCIENCE
-                         │
-                         ↓
-                MACHINE LEARNING
-                         │
-                         ↓
-                  DEEP LEARNING
-                         │
-                         ↓
-                  GENERATIVE AI
-                         │
-                         ↓
-              FULL-STACK ENGINEERING
-                         │
-                         ↓
-                  AI ENGINEERING
-                         │
-                         ↓
-               END-TO-END PRODUCTS
-                         │
-                         ↓
-                ENTREPRENEURSHIP
+PROGRAMMING → DATA ANALYTICS → DATA SCIENCE → MACHINE LEARNING
+    → DEEP LEARNING → GENERATIVE AI → FULL-STACK ENGINEERING
+        → AI ENGINEERING → END-TO-END PRODUCTS → ENTREPRENEURSHIP
 ```
 
 ---
@@ -410,14 +368,10 @@ Multi-hand gesture support
 ## `> operating.principles`
 
 ```text
-BUILD  >  CONSUME
-
-SHIP   >  PERFECT
-
-UNDERSTAND > MEMORIZE
-
-SYSTEMS > SHORTCUTS
-
+BUILD        >  CONSUME
+SHIP         >  PERFECT
+UNDERSTAND   >  MEMORIZE
+SYSTEMS      >  SHORTCUTS
 DEPTH + BREADTH > LIMITING YOURSELF
 
 IDEA → PROTOTYPE → PRODUCT → IMPACT
@@ -461,7 +415,6 @@ stack        → display technology stack
 journey      → display engineering journey
 future       → display long-term mission
 coffee       → check system fuel
-status       → display system status
 unlock       → access hidden layer
 ```
 
@@ -479,7 +432,6 @@ One shipped project at a time.
 > coffee
 
 CRITICAL.
-
 Always.
 ```
 
@@ -489,7 +441,6 @@ Always.
 01010111 01100101 01101100 01100011 01101111 01101101 01100101
 
 Hidden layer detected.
-
 Welcome, developer.
 ```
 
@@ -501,13 +452,10 @@ Welcome, developer.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GITHUB-05060A?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/JasmanjotSarna)
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-00C2FF?style=for-the-badge\&logo=linkedin\&logoColor=black)](https://www.linkedin.com/in/jasmanjot-singh-sarna-0a2539286/)
-
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-7A3CFF?style=for-the-badge\&logo=vercel\&logoColor=white)](https://jasmanjot-portfolio.vercel.app/)
-
-[![Email](https://img.shields.io/badge/EMAIL-E6002E?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:jasmanjotsinghsarna@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-05060A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JasmanjotSarna)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-00C2FF?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/jasmanjot-singh-sarna-0a2539286/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-7A3CFF?style=for-the-badge&logo=vercel&logoColor=white)](https://jasmanjot-portfolio.vercel.app/)
+[![Email](https://img.shields.io/badge/EMAIL-E6002E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jasmanjotsinghsarna@gmail.com)
 
 </div>
 
@@ -519,16 +467,12 @@ Welcome, developer.
 SYSTEM STATUS
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-AI / ML ENGINE ........ OPERATIONAL
-DATA ENGINE ........... OPERATIONAL
-FULL-STACK ENGINE ..... OPERATIONAL
-VISION MODULE ......... ONLINE
-BUILD ENGINE .......... ACTIVE
-LEARNING ENGINE ....... RUNNING
-
-CURRENT MISSION ....... IN PROGRESS
-AI PRODUCT ............ BUILDING
-FOUNDER MODE ........... INITIALIZING
+AI / ML ENGINE ......... OPERATIONAL
+DATA SCIENCE ENGINE ..... OPERATIONAL
+DATA ANALYTICS ENGINE ... OPERATIONAL
+FULL-STACK ENGINE ....... OPERATIONAL
+BUILD ENGINE ............ ACTIVE
+FOUNDER MODE ............. INITIALIZING
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
